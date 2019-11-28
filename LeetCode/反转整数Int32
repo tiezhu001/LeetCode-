@@ -1,0 +1,17 @@
+//给定一个32位的整数，反转各位数
+
+public int ReverseInt(int x)
+{
+    int res = 0;
+    int lastNum = 0;
+    while(x!=0)
+    {
+      lastNum = x%10;
+      x = x/10;
+      if(res>int.MaxValue/10||(res==int.MaxValue/10&&lastNum>7)){return 0;}
+      if(res<int.MinValue/10||(res==int.MinValue/10&&lastNum<-8)){return 0;}
+      res = res *10 + lastNum;
+      
+      }
+      return res;      
+ }
