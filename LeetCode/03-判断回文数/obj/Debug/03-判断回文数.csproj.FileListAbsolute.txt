@@ -1,0 +1,5 @@
+E:\c#\leetcode\leetcode\03-判断回文数\bin\Debug\03-判断回文数.exe.config
+E:\c#\leetcode\leetcode\03-判断回文数\bin\Debug\03-判断回文数.exe
+E:\c#\leetcode\leetcode\03-判断回文数\bin\Debug\03-判断回文数.pdb
+E:\c#\leetcode\leetcode\03-判断回文数\obj\Debug\03-判断回文数.exe
+E:\c#\leetcode\leetcode\03-判断回文数\obj\Debug\03-判断回文数.pdb

@@ -1,0 +1,6 @@
+E:\c#\leetcode\leetcode\02-整数反转\bin\Debug\02-整数反转.exe.config
+E:\c#\leetcode\leetcode\02-整数反转\bin\Debug\02-整数反转.exe
+E:\c#\leetcode\leetcode\02-整数反转\bin\Debug\02-整数反转.pdb
+E:\c#\leetcode\leetcode\02-整数反转\obj\Debug\02-整数反转.exe
+E:\c#\leetcode\leetcode\02-整数反转\obj\Debug\02-整数反转.pdb
+E:\c#\leetcode\leetcode\02-整数反转\obj\Debug\02-整数反转.csprojResolveAssemblyReference.cache

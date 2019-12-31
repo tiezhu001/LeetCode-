@@ -1,0 +1,8 @@
+E:\c#\leetcode\leetcode\01-两个数字求和\bin\Debug\01-两个数字求和.exe.config
+E:\c#\leetcode\leetcode\01-两个数字求和\obj\Debug\01-两个数字求和.csprojResolveAssemblyReference.cache
+E:\c#\leetcode\leetcode\01-两个数字求和\bin\Debug\01-两个数字求和.exe
+E:\c#\leetcode\leetcode\01-两个数字求和\bin\Debug\01-两个数字求和.pdb
+E:\c#\leetcode\leetcode\01-两个数字求和\bin\Debug\MathNet.Numerics.dll
+E:\c#\leetcode\leetcode\01-两个数字求和\bin\Debug\MathNet.Numerics.xml
+E:\c#\leetcode\leetcode\01-两个数字求和\obj\Debug\01-两个数字求和.exe
+E:\c#\leetcode\leetcode\01-两个数字求和\obj\Debug\01-两个数字求和.pdb
